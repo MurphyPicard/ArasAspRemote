@@ -15,6 +15,7 @@ namespace ArasAsp
         public static void Main(string[] args)
         {
             BuildWebHost(args).Run();
+            // first commit 1
         }
 
         public static IWebHost BuildWebHost(string[] args) =>
